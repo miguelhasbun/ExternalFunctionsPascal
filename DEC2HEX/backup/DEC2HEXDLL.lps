@@ -4,23 +4,16 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="2">
+    <Units Count="1">
       <Unit0>
         <Filename Value="DEC2HEXDLL.lpr"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <TopLine Value="12"/>
         <CursorPos X="20" Y="33"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit0>
-      <Unit1>
-        <Filename Value="..\..\Guía\project3\FUNCTIONS_DB_LENGUAJES_TBD2_Proyecto3-master\9ASCAL\HEXA2DEC\Project1.pas"/>
-        <UnitName Value="project1"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit1>
     </Units>
     <JumpHistory HistoryIndex="-1"/>
   </ProjectSession>
